@@ -1,0 +1,25 @@
+{
+  "name": "swrapper",
+  "version": "1.0.0",
+  "description": "An NPM Package to interact with Space API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceDevelopmentDC/SWrapper.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Udayana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpaceDevelopmentDC/SWrapper/issues"
+  },
+  "homepage": "https://github.com/SpaceDevelopmentDC/SWrapper#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
